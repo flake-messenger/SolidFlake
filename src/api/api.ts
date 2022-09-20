@@ -1,10 +1,10 @@
 import { Axios } from 'axios'
 
 export default class API {
-  private readonly axios: Axios = new Axios({
-    baseURL: process.env.API_BASE_URL,
+  protected readonly axios: Axios = new Axios({
+    baseURL: import.meta.env.API_BASE_URL,
     headers: {
-      Authorization: `Bearer ${process.env.TEMP_TOKEN}`,
+      Authorization: `Bearer ${import.meta.env.TEMP_TOKEN}`,
       'Content-Type': 'application/json',
     },
   })
