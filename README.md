@@ -16,7 +16,7 @@ Welp, we hasn't created any of ways to sponsor us but if you want you can contac
 # Contribution
 You want to contribute this project? Well right now it's possible only with Github
 functions. I mean you can fork our repo, clone main/dev branches to other branch, make changes to it
-and create a pull request. And please follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2) and also to describe is short all changes that you make in PR message.
+and create a pull request. And please follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2) and also to describe in short all changes that you make in PR message.
 We'll be thankful for your help.
 
 # Notion
